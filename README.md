@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob
 - 👀 I’m interested in backend development and software architecture
-- 🌱 I’m currently learning Signalr and improving my frontend development skills
+- 🌱 I’m currently learning Event Sourcing
 - 💞️ I’m looking to collaborate on any interesting C# web projects
 - ⚡  Fun fact: I used to be ambidextrous
 
